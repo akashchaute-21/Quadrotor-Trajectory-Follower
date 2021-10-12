@@ -15,4 +15,5 @@ The aim here was to design controller that would help quadrotor follow desired p
 ### Sine Trajectory:
 ![2DQuadrotor_sine](https://user-images.githubusercontent.com/75427257/136997602-b9563d10-f3b9-4c31-aef5-663da96fcec2.gif)
 
-
+The tuning of the quadrotor was a major task. Here we used trial and error method to find the gains. <br />
+In this method we gave a minimum value to each of the gains and increased upto desired state.<br /> Inorder to tune this, we solved a PID tuning assignment. A detailed report can be found on : https://hackmd.io/@akash2002/SyV5gKbBF 
