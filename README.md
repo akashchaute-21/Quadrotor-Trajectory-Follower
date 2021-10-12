@@ -9,7 +9,7 @@ Here, the aim was to stabilize the quadrotor at given height.
 ![height_control_1m](https://user-images.githubusercontent.com/75427257/136997513-15112e9c-ce50-4191-88a9-9d385709d390.gif)
 
 ## 2D Quadrotor
-The aim here was to design controller that would help quadrotor follow desired path while minimizing position error.
+The aim here was to design controller that would help quadrotor follow desired path and also minimize position error.
 ### Line Trajectory:
 ![2DQuadrotor_line](https://user-images.githubusercontent.com/75427257/136997585-19767883-f320-48db-8d78-793e515ab711.gif)
 ### Sine Trajectory:
