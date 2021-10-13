@@ -1,6 +1,12 @@
 # Quadrotor-Trajectory-Follower
 ## Introduction
 The aim of this project is to implement a 2D controller of a quadrotor for tracing a predefined trajectory.
+## Sequence of project:
+* PID Tuning
+* Gain Tuning
+* Hover at a Height, 1D Quadrotor
+* 2D Quadrotor
+ 
 ## 1D Quadrotor
 Here, the aim is to stabilize the quadrotor at given height.
 ### Hover at 0 m height:
