@@ -11,9 +11,10 @@ Here, the aim is to stabilize the quadrotor at given height.
 ## 2D Quadrotor
 The aim is to design controller that would make quadrotor follow desired path and also minimize position error.
 ### Line Trajectory:
-![2DQuadrotor_line](https://user-images.githubusercontent.com/75427257/136997585-19767883-f320-48db-8d78-793e515ab711.gif)
+![2DQuadrotor_line (1)](https://user-images.githubusercontent.com/75427257/137064052-59bbe304-7342-4e9c-ad7f-8fce31601478.gif)
+
 ### Sine Trajectory:
-![2DQuadrotor_sine](https://user-images.githubusercontent.com/75427257/136997602-b9563d10-f3b9-4c31-aef5-663da96fcec2.gif)
+![2DQuadrotor_sine (1)](https://user-images.githubusercontent.com/75427257/137064152-8a1e907e-5efa-4d52-ae8e-40f8424e5115.gif)
 
 The tuning of the gains for quadrotor trajectory is a major task. Here, Trial and error method is used to find the gains. <br />
 In this method a certain minimum value to each of the gains is given and increased upto desired state.<br /> Inorder to tune this, we solved a PID tuning assignment. A detailed report of which can be found on : https://hackmd.io/@akash2002/SyV5gKbBF.
